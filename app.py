@@ -1,5 +1,5 @@
-from flask import Flask, render_template, url_for, request, redirect, jsonify, json, session
-from paytmkit import Checksum
+from flask import Flask, request, redirect, jsonify, json
+import Checksum
 import requests
 app = Flask(__name__)
 
