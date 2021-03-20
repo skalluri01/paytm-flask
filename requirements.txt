@@ -3,5 +3,5 @@ Flask_PyMongo==2.3.0
 crypto==1.4.1
 pycryptodome==3.9.3
 requests==2.22.0
-jinja2==2.10.1
+jinja2==2.11.3
 requests
